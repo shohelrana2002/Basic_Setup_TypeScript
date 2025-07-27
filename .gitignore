@@ -1,0 +1,4 @@
+dist
+coverage
+nod_modules
+.env
